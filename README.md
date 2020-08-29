@@ -1,4 +1,4 @@
-# conceitos-reactjs
+# Conceitos-reactjs
 ## Primeiro desafio de reactjs do bootcamp GoStack.
 Nesse desafio foi criado uma aplicação que conecta ao back-end que foi desenvolvido no desafio anterior.
 Basicamente é um projeto que armazena os seus repositorios.
